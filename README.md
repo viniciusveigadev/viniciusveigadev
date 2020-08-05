@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como aprender JAVA - Programação Orientada à Objetos em 15 dias](https://medium.com/@viniciusveigadev/como-aprender-java-programa%C3%A7%C3%A3o-orientada-%C3%A0-objetos-em-15-dias-f5b5c1fe09c8?source=rss-b4da53b46f13------2)
 - [Como substituir ou voltar para uma versão do Node.js](https://medium.com/@viniciusveigadev/como-substituir-ou-voltar-para-uma-vers%C3%A3o-do-node-js-f2aa40591036?source=rss-b4da53b46f13------2)
 <!-- BLOG-POST-LIST:END -->
 
