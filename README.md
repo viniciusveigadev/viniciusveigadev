@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Como substituir ou voltar para uma versão do Node.js](https://medium.com/@viniciusveigadev/como-substituir-ou-voltar-para-uma-vers%C3%A3o-do-node-js-f2aa40591036?source=rss-b4da53b46f13------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusveigadev&layout=compact&hide=html" alt="viniciusveigadev" />
