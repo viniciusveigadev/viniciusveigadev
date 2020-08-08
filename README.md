@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End, Android development, Security and so on**
 
-- ⚡ Fun fact **I love music!**
+- ⚡ Fun fact **I love music** and **Chess** ♟️
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
