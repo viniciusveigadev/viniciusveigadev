@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinicius Veiga</h1>
 <h3 align="center">A passionate front-end developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Node.js and Mobile Forensics**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📝 I write articles on [https://medium.com/@viniciusveigadev](https://medium.com/@viniciusveigadev)
 
