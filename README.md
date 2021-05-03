@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vinicius Veiga</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
+<h1 align="center">Hi, I'm Vinícius Veiga</h1>
+<h3 align="center">A passionate Mobile Developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -17,7 +17,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusveigadev&layout=compact&hide=html" alt="viniciusveigadev" />
 
 <p align="center">
-<a href="https://codepen.io/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="viniciusveigadev" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="viniciusveigadev" height="30" width="30" /></a>
-<a href="https://medium.com/@viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@viniciusveigadev" height="30" width="30" /></a>
+<a href="https://instagram.com/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viniciusveigadev" height="30" width="30" /></a>
+<a href="https://twitter.com/viniciusdevbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="viniciusdevbr" height="30" width="30" /></a>
+<a href="https://medium.com/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="viniciusveigadev" height="30" width="30" /></a>
 </p>
