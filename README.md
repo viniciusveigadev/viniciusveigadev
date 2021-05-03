@@ -19,5 +19,5 @@
 <p align="center">
 <a href="https://instagram.com/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viniciusveigadev" height="30" width="30" /></a>
 <a href="https://twitter.com/viniciusdevbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="viniciusdevbr" height="30" width="30" /></a>
-<a href="https://medium.com/viniciusveigadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="viniciusveigadev" height="30" width="30" /></a>
+<a href="https://viniciusveigadev.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="viniciusveigadev" height="30" width="30" /></a>
 </p>
